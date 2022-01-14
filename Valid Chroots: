@@ -1,0 +1,5 @@
+im a begginer and im trying to install kali linux on my chromebook can some one help?
+sudo crouton -n kali -r kali-rolling -t core,xiwi,xfce,extension -u
+No chroots found in /mnt/stateful_partition/crouton/chroots
+/usr/local/chroots/kali does not exist; cannot update.
+Valid chroots:
